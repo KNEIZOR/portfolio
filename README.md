@@ -1,7 +1,3 @@
-# Webpack 5 config for React
-
-A detailed guide for setting up this config you can find in my article on Habr: https://habr.com/ru/post/597389/
-
 # Getting Started
 
 Then install the dependencies:
