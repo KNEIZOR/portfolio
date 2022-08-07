@@ -4,10 +4,6 @@ A detailed guide for setting up this config you can find in my article on Habr: 
 
 # Getting Started
 
-First of all, you must copy it to your project:
-
-### `git clone https://github.com/aAleksandrOrlov/webpack-5-react-config ./<your_directory>`
-
 Then install the dependencies:
 
 ### `npm install`
